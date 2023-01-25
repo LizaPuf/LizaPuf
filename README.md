@@ -1,9 +1,16 @@
 # Hello
-# 22 y.o
+<html>
 
-![python](https://github.com/LizaPuf/LizaPuf/blob/main/assets/python%20(3).png)
+<body>
 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=for-the-badge&logo=PostgreSQL&logoColor=E0FFFF" />
+<nobr>
+<img src="https://github.com/LizaPuf/LizaPuf/blob/main/assets/python%20(3).png" alt="drawing" width="50" /> 
+<img src="https://github.com/LizaPuf/LizaPuf/blob/main/assets/django.png" alt="drawing" width="50" />
+<img src="https://github.com/LizaPuf/LizaPuf/blob/main/assets/html%20(1).png" alt="drawing" width="50" /> 
+<img src="https://github.com/LizaPuf/LizaPuf/blob/main/assets/css-coding.png" alt="drawing" width="50" />
 
-<img src="https://github.com/LizaPuf/LizaPuf/blob/main/assets/python%20(3).png" />
+</nobr>
+
+</body>
+
+</html>
